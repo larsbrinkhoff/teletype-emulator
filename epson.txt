@@ -1,0 +1,7 @@
+TM-T20II
+
+80 mm paper is 576 dots.
+
+"ESC M 0" or "1" to change font.  Font A is 12 pixels wide, B is 9.
+
+"ESK K n" supposedly does reverse feed, but doesn't work on this model.
